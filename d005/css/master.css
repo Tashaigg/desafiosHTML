@@ -12,3 +12,12 @@ h1 {
 p{
   text-align: justify;
 }
+strong{
+  vertical-align: 100%;
+}
+strong::before{
+  content: "\00A0\00A0";
+}
+a{
+  text-decoration: none;
+}
