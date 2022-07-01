@@ -57,7 +57,7 @@ article{
     background-size: cover;
     background-attachment: fixed;
     box-shadow: 0px 0px 15px 1px inset rgba(0, 0, 0, 0.574);
-    background-position: right;
+    background-position: right bottom;
 }
 #img1{
     background-image: url(../imagens/background001.jpg);
